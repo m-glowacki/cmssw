@@ -1,6 +1,7 @@
 <use name="root"/>
 <use name="boost"/>
 <use name="CommonTools/UtilAlgos"/>
+<use name="CommonTools/Utils"/>
 <use name="FWCore/Framework"/>
 <use name="FWCore/ParameterSet"/>
 <use name="FWCore/Utilities"/>
@@ -10,4 +11,5 @@
 <use name="L1Trigger/Phase2L1GT"/>
 <use name="DataFormats/L1TMuonPhase2"/>
 <use name="hls"/>
+<use name="hls4mlemulatorextras"/>
 <flags EDM_PLUGIN="1"/>
