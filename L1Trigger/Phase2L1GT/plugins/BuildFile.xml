@@ -1,13 +1,16 @@
 <use name="root"/>
 <use name="boost"/>
 <use name="CommonTools/UtilAlgos"/>
+<use name="CommonTools/Utils"/>
 <use name="FWCore/Framework"/>
 <use name="FWCore/ParameterSet"/>
 <use name="FWCore/Utilities"/>
+<use name="DataFormats/Common"/>
 <use name="DataFormats/L1Trigger"/>
 <use name="DataFormats/Provenance"/>
+<use name="DataFormats/L1TMuonPhase2"/>
 <use name="L1Trigger/DemonstratorTools"/>
 <use name="L1Trigger/Phase2L1GT"/>
-<use name="DataFormats/L1TMuonPhase2"/>
 <use name="hls"/>
+<use name="hls4mlEmulatorExtras"/>
 <flags EDM_PLUGIN="1"/>
